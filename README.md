@@ -21,3 +21,9 @@ LT2RquWo/10Cr5jjMytmNOHk5W68sNQThdwXwijfr2BZVYn2i0IhkXK1Dr0Vyz15
 LygInXgJ2H5T/utWM66Gu2QRrjPib1Of0R0PE/cTL22CqxbQ9cX3MrLyxQjxKIJ+
 84ZjAhwjzUD7FiK+196v4KY33IGiATlFMZcFhbZwqYll
 -----END DSA PRIVATE KEY-----
+
+[default]
+aws_access_key_id = AKIAQYLPMN5HHHFPZAM2
+aws_secret_access_key = 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
+output = json
+region = us-east-2
